@@ -14,9 +14,12 @@ that the water will not overflow. This may be useful in saving water from gettin
 
 # High Level Requirements
 
-# HLR1 Servo Motor ON/OFF
-# HLR2 UV Sensor to test the level of water
-# HLR3 2 LED to detect servo should be turned on or off
+# HLR1 
+Servo Motor ON/OFF
+# HLR2 
+UV Sensor to test the level of water
+# HLR3 
+2 LED to detect servo should be turned on or off
 
 
 
