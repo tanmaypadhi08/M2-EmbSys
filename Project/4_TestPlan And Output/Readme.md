@@ -3,3 +3,5 @@
 ## HIGH LEVEL TEST PLAN
 
 |Test |Description |Input |Output |Requirement Met |
+|----|-------------|------|------|-----------------|
+
