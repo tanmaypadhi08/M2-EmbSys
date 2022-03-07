@@ -12,32 +12,28 @@ that the water will not overflow. This may be useful in saving water from gettin
 # Requirements
 
 
-# High Level Requirements
+## HIGH LEVEL REQUIREMENTS
 
-# HLR1 
-Servo Motor ON/OFF
-# HLR2 
-UV Sensor to test the level of water
-# HLR3 
-2 LED to detect servo should be turned on or off
-
-
+|ID |Description |
+|--|-------------|
+|01|Servo motor should ON/OFF|
+|02|Ultrasonic Sensor should sense the level of water|
+|03|LED should glow|
+|04|Voltmeter should measure the voltage|
 
 
 
-# Low Level Requirements
 
-# LLR1 
-The servo motor which works as an actuator in this model turns on when the water level goes below 50% and turns off when the sensor detects that the water has reached the maximum level. This saves time and also brings the concept of automation in my project
 
-# LLR2
-There is an UV sensor in the system to detect the level of water at any instant of time. This will help to save a lot of water and also avoid the tank to go waterless. Also it will avoid overfilling of the tank
 
-# LLR3
-There are two LED connected to detect the level. The first will glow when the level is less than 50% and other will glow when the level touches max point. 
+## LOW LEVEL REQUIREMENTS
 
-# LLR4
-There is a potentiometer to check the regulation of supply properly. 
+|ID |Description |
+|--|-------------|
+|01|Servo motor valve should be open when the water is less.|
+|02|Servo motor valve should close when water is full.|
+|03|LED should glow when valve is open/close|
+|04|Potentiometer should regulate the voltage properly.|
 
 
 
