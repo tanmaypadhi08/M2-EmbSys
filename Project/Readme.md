@@ -5,9 +5,9 @@ Water level indicator is a modern way of measuring the water level using latest 
 any instant of time using Arduino, Servo Motor and Ultrasonic sensor to make it possible. As the servo motor used as an actuator will turn off when the tank fulls with water so 
 that the water will not overflow. This may be useful in saving water from getting waste.
 
-# Requirements
+## Requirements
 
-## HIGH LEVEL REQUIREMENTS
+### HIGH LEVEL REQUIREMENTS
 
 |ID |Description |
 |--|-------------|
@@ -16,7 +16,7 @@ that the water will not overflow. This may be useful in saving water from gettin
 |03|LED should glow|
 |04|Voltmeter should measure the voltage|
 
-## LOW LEVEL REQUIREMENTS
+### LOW LEVEL REQUIREMENTS
 
 |ID |Description |
 |--|-------------|
@@ -25,7 +25,7 @@ that the water will not overflow. This may be useful in saving water from gettin
 |03|LED should glow when valve is open/close|
 |04|Potentiometer should regulate the voltage properly.|
 
-# TEST PLAN AND OUTPUT
+## TEST PLAN AND OUTPUT
 
 ## HIGH LEVEL TEST PLAN
 
@@ -38,7 +38,7 @@ that the water will not overflow. This may be useful in saving water from gettin
 |05|Potentiometer|Vary the resistance and regulates the flow|Flow of circuit|Yes|
 |06|Servo Motor|ON to suply water and OFF to stop overflow|Water above 50% and below 100%|Yes|
 
-## LOW LEVEL TEST PLAN
+### LOW LEVEL TEST PLAN
 
 |Test |Description |Input |Output |Requirement Met|
 |--|-------------|------|------|---|
