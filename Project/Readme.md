@@ -38,7 +38,6 @@ that the water will not overflow. This may be useful in saving water from gettin
 |05|Potentiometer|Vary the resistance and regulates the flow|Flow of circuit|Yes|
 |06|Servo Motor|ON to suply water and OFF to stop overflow|Water above 50% and below 100%|Yes|
 
-# 
 ## LOW LEVEL TEST PLAN
 |Test |Description |Input |Output |Requirement Met|
 |--|-------------|------|------|---|
