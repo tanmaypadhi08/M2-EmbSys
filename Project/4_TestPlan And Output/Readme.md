@@ -9,3 +9,7 @@
 |03|LED|Show the level of tank|Glow when water reaches the level|Yes|
 |04|Resistor|Restrict the flow|Restrict the flow of current|Yes|
 |05|Potentiometer|Vary the resistance and regulates the flow|Flow of circuit|Yes|
+
+# 
+## LOW LEVEL TEST PLAN
+
