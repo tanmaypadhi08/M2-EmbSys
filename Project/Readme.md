@@ -39,6 +39,7 @@ that the water will not overflow. This may be useful in saving water from gettin
 |06|Servo Motor|ON to suply water and OFF to stop overflow|Water above 50% and below 100%|Yes|
 
 ## LOW LEVEL TEST PLAN
+
 |Test |Description |Input |Output |Requirement Met|
 |--|-------------|------|------|---|
 |01|Servo motor valve should be open when the water is less.|Less Water|Servo ON|Yes|
