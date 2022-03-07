@@ -25,9 +25,3 @@ that the water will not overflow. This may be useful in saving water from gettin
 |02|Servo motor valve should close when water is full.|
 |03|LED should glow when valve is open/close|
 |04|Potentiometer should regulate the voltage properly.|
-
-
-
-
-
-
