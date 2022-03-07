@@ -39,9 +39,11 @@ that the water will not overflow. This may be useful in saving water from gettin
 
 
 
+## Badges
 
-
-[![CI](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml)
+|Badges |Status |
+|--------|-------------|
+|CI||[![CI](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml)|
 
 [![Cpp-Check](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml)
 
