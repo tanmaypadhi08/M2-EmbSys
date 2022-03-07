@@ -8,3 +8,5 @@ Repository for 2nd module embedded system design and architechure
 [![Build-Linux](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml)
 
 [![Valgrind](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml)
+
+[![Unit Testing](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml)
