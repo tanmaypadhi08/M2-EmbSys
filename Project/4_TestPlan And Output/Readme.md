@@ -12,4 +12,10 @@
 
 # 
 ## LOW LEVEL TEST PLAN
-
+|Test |Description |Input |Output |Requirement Met|
+|--|-------------|------|------|---|
+|01|Servo motor valve should be open when the water is less.|Less Water|Servo ON|Yes|
+|02|Servo motor valve should close when water is full.|Full Water (Above 90%)|Servo OFF|Yes|
+|03|LED ON|ON when level is below threshold|Water below 50%|Yes|
+|04|LED OFF|FF when level is above max limit|Water above 90%|Yes|
+|05|Potentiometer Regulation|Regulate when water is above or below the required limit|Water should be between 50% and 90%|Yes|
