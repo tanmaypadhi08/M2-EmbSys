@@ -71,3 +71,4 @@ that the water will not overflow. This may be useful in saving water from gettin
 |Build Linux|[![Build-Linux](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml)|
 |Valgrind|[![Valgrind](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml)|
 |Unit Testing|[![Unit Testing](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml)|
+|Codiga|https://api.codiga.io/project/31650/score/svg|
