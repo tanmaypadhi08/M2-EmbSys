@@ -58,3 +58,4 @@ that the water will not overflow. This may be useful in saving water from gettin
 |Valgrind|[![Valgrind](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml)|
 |Unit Testing|[![Unit Testing](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml)|
 |Codiga|https://api.codiga.io/project/31650/score/svg|
+|Codacy|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9cacd4e343734821886da6935e77a3cf)](https://www.codacy.com/gh/tanmaypadhi08/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tanmaypadhi08/M2-EmbSys&amp;utm_campaign=Badge_Grade)|
