@@ -5,7 +5,7 @@ Water level indicator is a modern way of measuring the water level using latest 
 any instant of time using Arduino, Servo Motor and Ultrasonic sensor to make it possible. As the servo motor used as an actuator will turn off when the tank fulls with water so 
 that the water will not overflow. This may be useful in saving water from getting waste.
 
-# Requirements
+## Requirements
 
 ## HIGH LEVEL REQUIREMENTS
 
