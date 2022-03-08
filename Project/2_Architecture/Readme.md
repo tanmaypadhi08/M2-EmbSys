@@ -1,4 +1,4 @@
-# SWOT ANALYSIS And Applications
+# SWOT ANALYSIS 
 
 ## Strength
 S1. This model is easy to install
@@ -15,7 +15,26 @@ O2. Promotes automation
 ## Threats
 T1. The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
 
-## Application
+# Application
 1. Can be used in industries to save water
 2. Automated system so need not to monitor the flow
 3. Also can be used in oil tanks and pool with some modifications
+
+# 4W's and 1H
+
+## Who
+Anyone working in industrial domain or for domestic purpose
+
+## What
+Automated System processed without human intervention
+
+## WHen
+ON/OFF depending on water level
+
+## Where
+Indistry and Domestic also in commercial areas
+
+## How
+Operates depending on the level of water in the tank
+
+
