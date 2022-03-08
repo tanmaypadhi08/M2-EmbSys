@@ -28,7 +28,7 @@ Anyone working in industrial domain or for domestic purpose
 ## What
 Automated System processed without human intervention
 
-## WHen
+## When
 ON/OFF depending on water level
 
 ## Where
