@@ -1,5 +1,4 @@
-# M2-EmbSys
-# ABSTRACT
+## ABSTRACT
 
 Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will turn the lever on or off depending on the level. 
 Water level indicator is a modern way of measuring the water level using latest technologies like sensors, Arduino. The main aim of the project is to observe the water level at 
