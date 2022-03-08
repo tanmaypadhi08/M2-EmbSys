@@ -1,17 +1,17 @@
 ## Project Made by Tanmay Padhi
 
 ## Table Of Content
-1. Abstract
+1 Abstract
 
-2. Requirements
+2 Requirements
  
-3. Architecture
+3 Architecture
  
-4. Test Plan And Output
+4 Test Plan And Output
   
-5. Images And Videos
+5 Images And Videos
 
-6. Badges
+6 Badges
 
 ## ABSTRACT
 
@@ -43,48 +43,52 @@ that the water will not overflow. This may be useful in saving water from gettin
 ## SWOT ANALYSIS 
 
 ## Strength
-S1. This model is easy to install
+S1 This model is easy to install
 
-S2. It is affordable
+S2 It is affordable
 
 ## Weakness
 
-W1. Not durable
+W1 Not durable
 
-W2. Maintainance issues
+W2 Maintainance issues
 
 ## Oppurtunities
 
-O1. Best method to save water
+O1 Best method to save water
 
-O2. Promotes automation
+O2 Promotes automation
 
 ## Threats
 
-T1. The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
+T1 The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
 
 ## Application
 
-A1. Can be used in industries to save water
+A1 Can be used in industries to save water
 
-A2. Automated system so need not to monitor the flow
+A2 Automated system so need not to monitor the flow
 
-A3. Also can be used in oil tanks and pool with some modifications
+A3 Also can be used in oil tanks and pool with some modifications
 
 ## 4W's and 1H
 
 ## Who
 
 Anyone working in industrial domain or for domestic purpose
+
 ## What
 
 Automated System processed without human intervention
+
 ## When
 
 ON/OFF depending on water level
+
 ## Where
 
 Indistry and Domestic also in commercial areas
+
 ## How
 
 Operates depending on the level of water in the tank
@@ -114,11 +118,14 @@ Operates depending on the level of water in the tank
 
 ## Images And Videos
 
+# Video
+
 https://user-images.githubusercontent.com/48876183/157287867-2058a6d5-37c4-4ede-9b52-45aa85c96cac.mp4
 
 ## Servo OFF
 
 ![servooff](https://user-images.githubusercontent.com/48876183/157287936-7432393f-9929-4487-a3f0-4d44a0da3a1b.png)
+
 ## Servo ON
 
 ![servoon](https://user-images.githubusercontent.com/48876183/157287944-b9b7e2c2-00af-4c90-9fbb-67a0c1c064c8.png)
