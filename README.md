@@ -6,7 +6,6 @@
 2. Requirements
 
  2.1 High Level Requirements
-  
  2.2 Low Level Requirements
 
 3. Architecture
