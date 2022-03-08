@@ -26,15 +26,11 @@ A3. Also can be used in oil tanks and pool with some modifications
 
 ## Who
 Anyone working in industrial domain or for domestic purpose
-
 ## What
 Automated System processed without human intervention
-
 ## When
 ON/OFF depending on water level
-
 ## Where
 Indistry and Domestic also in commercial areas
-
 ## How
 Operates depending on the level of water in the tank
