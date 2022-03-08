@@ -1,17 +1,18 @@
 ## Project Made by Tanmay Padhi
 
 ## Table Of Content
-1. Abstract
 
-2. Requirements
+1 Abstract
+
+2 Requirements
  
-3. Architecture
+3 Architecture
  
-4. Test Plan And Output
+4 Test Plan And Output
   
-5. Images And Videos
+5 Images And Videos
 
-6. Badges
+6 Badges
 
 ## ABSTRACT
 
@@ -48,24 +49,24 @@ S1. This model is easy to install
 S2. It is affordable
 
 ## Weakness
-W1. Not durable
+W1 Not durable
 
-W2. Maintainance issues
+W2 Maintainance issues
 
 ## Oppurtunities
-O1. Best method to save water
+O1 Best method to save water
 
-O2. Promotes automation
+O2 Promotes automation
 
 ## Threats
-T1. The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
+T1 The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
 
 ## Application
-A1. Can be used in industries to save water
+A1 Can be used in industries to save water
 
-A2. Automated system so need not to monitor the flow
+A2 Automated system so need not to monitor the flow
 
-A3. Also can be used in oil tanks and pool with some modifications
+A3 Also can be used in oil tanks and pool with some modifications
 
 ## 4W's and 1H
 
