@@ -2,17 +2,17 @@
 
 ## Table Of Content
 1. Abstract
+
 2. Requirements
-  2.1 High Level Requirements
-  2.2 Low Level Requirements
+ 
 3. Architecture
-  3.1 SWOT Analysis
-  3.2 4W's 1H
+ 
 4. Test Plan And Output
-  4.1. High Level Test Plan
-  4.2. Low Level Test Plan
+  
 5. Images And Videos
+
 6. Badges
+
 ## ABSTRACT
 
 Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will turn the lever on or off depending on the level. 
