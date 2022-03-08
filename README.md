@@ -5,21 +5,21 @@
 
 2. Requirements
 
- High Level Requirements
+ 2.1 High Level Requirements
   
- Low Level Requirements
+ 2.2 Low Level Requirements
 
 3. Architecture
 
-  SWOT Analysis
+  3.1 SWOT Analysis
   
-  4W's 1H
+  3.2 4W's 1H
   
 4. Test Plan And Output
 
-  High Level Test Plan
+ 4.1 High Level Test Plan
   
-  Low Level Test Plan
+ 4.2 Low Level Test Plan
 
 5. Images And Videos
 
