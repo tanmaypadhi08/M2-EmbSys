@@ -1,4 +1,4 @@
-# SWOT ANALYSIS 
+## SWOT ANALYSIS 
 
 ## Strength
 S1. This model is easy to install
