@@ -17,7 +17,9 @@ T1. The model is totally dependent on electronics components so any fault in any
 
 ## Application
 A1. Can be used in industries to save water
+
 A2. Automated system so need not to monitor the flow
+
 A3. Also can be used in oil tanks and pool with some modifications
 
 ## 4W's and 1H
