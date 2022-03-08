@@ -16,11 +16,9 @@ O2. Promotes automation
 T1. The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
 
 ## Application
-1. Can be used in industries to save water
-
-2. Automated system so need not to monitor the flow
-
-3. Also can be used in oil tanks and pool with some modifications
+A1. Can be used in industries to save water
+A2. Automated system so need not to monitor the flow
+A3. Also can be used in oil tanks and pool with some modifications
 
 ## 4W's and 1H
 
