@@ -44,9 +44,9 @@ that the water will not overflow. This may be useful in saving water from gettin
 ## SWOT ANALYSIS 
 
 ## Strength
-S1. This model is easy to install
+S1 This model is easy to install
 
-S2. It is affordable
+S2 It is affordable
 
 ## Weakness
 W1 Not durable
