@@ -59,12 +59,14 @@ https://user-images.githubusercontent.com/48876183/157287867-2058a6d5-37c4-4ede-
 ![servoon](https://user-images.githubusercontent.com/48876183/157287944-b9b7e2c2-00af-4c90-9fbb-67a0c1c064c8.png)
 
 
-[![CI](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml)
+## Badges
 
-[![Cpp-Check](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml)
-
-[![Build-Linux](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml)
-
-[![Valgrind](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml)
-
-[![Unit Testing](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml)
+|Badges |Status |
+|--------|-------------|
+|CI|[![CI](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/blank.yml)|
+|CPP|[![Cpp-Check](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/c-cpp.yml)|
+|Build Linux|[![Build-Linux](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Build.yml)|
+|Valgrind|[![Valgrind](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Val.yml)|
+|Unit Testing|[![Unit Testing](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/tanmaypadhi08/M2-EmbSys/actions/workflows/Unit.yml)|
+|Codiga|https://api.codiga.io/project/31650/score/svg|
+|Codacy|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9cacd4e343734821886da6935e77a3cf)](https://www.codacy.com/gh/tanmaypadhi08/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tanmaypadhi08/M2-EmbSys&amp;utm_campaign=Badge_Grade)|
