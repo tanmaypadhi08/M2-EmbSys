@@ -1,4 +1,19 @@
-# ABSTRACT
+## Project Made by Tanmay Padhi
+
+## Table Of Content
+1. Abstract
+2. Requirements
+  2.1 High Level Requirements
+  2.2 Low Level Requirements
+3. Architecture
+  3.1 SWOT Analysis
+  3.2 4W's 1H
+4. Test Plan And Output
+  4.1. High Level Test Plan
+  4.2. Low Level Test Plan
+5. Images And Videos
+6. Badges
+## ABSTRACT
 
 Water tank overflow is a common problem which leads to the wastage of water. This circuit will detect the water level and will turn the lever on or off depending on the level. 
 Water level indicator is a modern way of measuring the water level using latest technologies like sensors, Arduino. The main aim of the project is to observe the water level at 
@@ -24,6 +39,46 @@ that the water will not overflow. This may be useful in saving water from gettin
 |02|Servo motor valve should close when water is full.|
 |03|LED should glow when valve is open/close|
 |04|Potentiometer should regulate the voltage properly.|
+
+## SWOT ANALYSIS 
+
+## Strength
+S1. This model is easy to install
+
+S2. It is affordable
+
+## Weakness
+W1. Not durable
+
+W2. Maintainance issues
+
+## Oppurtunities
+O1. Best method to save water
+
+O2. Promotes automation
+
+## Threats
+T1. The model is totally dependent on electronics components so any fault in any specific component will make the entire system fail
+
+## Application
+A1. Can be used in industries to save water
+
+A2. Automated system so need not to monitor the flow
+
+A3. Also can be used in oil tanks and pool with some modifications
+
+## 4W's and 1H
+
+## Who
+Anyone working in industrial domain or for domestic purpose
+## What
+Automated System processed without human intervention
+## When
+ON/OFF depending on water level
+## Where
+Indistry and Domestic also in commercial areas
+## How
+Operates depending on the level of water in the tank
 
 ## TEST PLAN AND OUTPUT
 
