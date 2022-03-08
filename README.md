@@ -44,14 +44,17 @@ that the water will not overflow. This may be useful in saving water from gettin
 
 ## Strength
 S1. This model is easy to install
+
 S2. It is affordable
 
 ## Weakness
 W1. Not durable
+
 W2. Maintainance issues
 
 ## Oppurtunities
 O1. Best method to save water
+
 O2. Promotes automation
 
 ## Threats
