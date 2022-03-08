@@ -36,5 +36,3 @@ Indistry and Domestic also in commercial areas
 
 ## How
 Operates depending on the level of water in the tank
-
-
